@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\API\\API.csproj",
+      "projectUniqueName": "D:\\coding\\JobInterview2022-12\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\API\\API.csproj",
+      "projectPath": "D:\\coding\\JobInterview2022-12\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\API\\obj\\",
+      "outputPath": "D:\\coding\\JobInterview2022-12\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -95,14 +95,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\BL\\BL.csproj"
+            "D:\\coding\\JobInterview2022-12\\BL\\BL.csproj": {
+              "projectPath": "D:\\coding\\JobInterview2022-12\\BL\\BL.csproj"
             },
-            "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\DAL\\DAL.csproj"
+            "D:\\coding\\JobInterview2022-12\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\coding\\JobInterview2022-12\\DAL\\DAL.csproj"
             },
-            "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj"
+            "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj"
             }
           }
         }

@@ -41,7 +41,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DAL >= 1.0.0"
+      "DAL >= 1.0.0",
+      "Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\coding\\JobInterview2022-12\\BL\\BL.csproj",
-      "projectName": "BL",
-      "projectPath": "D:\\coding\\JobInterview2022-12\\BL\\BL.csproj",
+      "projectUniqueName": "D:\\coding\\JobInterview2022-12\\Services\\Services.csproj",
+      "projectName": "Services",
+      "projectPath": "D:\\coding\\JobInterview2022-12\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-      "outputPath": "D:\\coding\\JobInterview2022-12\\BL\\obj\\",
+      "outputPath": "D:\\coding\\JobInterview2022-12\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -77,6 +78,9 @@
           "projectReferences": {
             "D:\\coding\\JobInterview2022-12\\DAL\\DAL.csproj": {
               "projectPath": "D:\\coding\\JobInterview2022-12\\DAL\\DAL.csproj"
+            },
+            "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj"
             }
           }
         }

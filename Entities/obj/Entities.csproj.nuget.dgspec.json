@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj": {}
+    "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj": {
+    "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\Entities.csproj",
+        "projectPath": "D:\\coding\\JobInterview2022-12\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desktop\\source\\repos\\JobInterview2022-12\\Entities\\obj\\",
+        "outputPath": "D:\\coding\\JobInterview2022-12\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

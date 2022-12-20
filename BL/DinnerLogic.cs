@@ -22,6 +22,7 @@ namespace BL
         {
             return dal.GetEventsByEmployee(id);
         }
+
         public void AddNewDinnerEvent(DinnerEvent dinnerEvent)
         {
             dal.AddNewDinnerEvent(dinnerEvent);
