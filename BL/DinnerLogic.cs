@@ -44,7 +44,7 @@ namespace BL
            return dal.DeleteDinnerEvent(id);
         }
 
-        public bool IsTableAvailable(int guestNum, DateTime date)
+         bool IsTableAvailable(int guestNum, DateTime date)
         {
             TablePlannerServiceClient client = new TablePlannerServiceClient();
             return client.CheckTableAvailabiltyAsync(guestNum, date).Result;
