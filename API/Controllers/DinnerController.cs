@@ -36,7 +36,7 @@ namespace API.Controllers
         [HttpGet("employee/{id}")]
         public IActionResult GetDinnerEventsByEmployee(string id)
         {
-            List<DinnerEvent> d = logic.GetDinnerEventsByemployee(id);
+            List<DinnerEvent> d = logic.GetDinnerEventsByEmployee(id);
             if (d.Count == 0)
             {
                 return Problem(statusCode: 404);

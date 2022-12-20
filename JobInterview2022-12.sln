@@ -11,7 +11,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{389CA964-AF94-4787-B425-F0CDEF8014B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{12B07D74-D490-4A09-80A6-68551AFB89CC}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TablePlannerService", "TablePlannerService\", "{D0BDD189-6E1E-4C35-AB2B-29B691D43CFD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63005"
+		Debug.AspNetCompiler.PhysicalPath = "TablePlannerService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63005\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63005"
+		Release.AspNetCompiler.PhysicalPath = "TablePlannerService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63005\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63005"
+		SlnRelativePath = "TablePlannerService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +55,10 @@ Global
 		{389CA964-AF94-4787-B425-F0CDEF8014B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389CA964-AF94-4787-B425-F0CDEF8014B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389CA964-AF94-4787-B425-F0CDEF8014B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12B07D74-D490-4A09-80A6-68551AFB89CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12B07D74-D490-4A09-80A6-68551AFB89CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12B07D74-D490-4A09-80A6-68551AFB89CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12B07D74-D490-4A09-80A6-68551AFB89CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BDD189-6E1E-4C35-AB2B-29B691D43CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BDD189-6E1E-4C35-AB2B-29B691D43CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BDD189-6E1E-4C35-AB2B-29B691D43CFD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BDD189-6E1E-4C35-AB2B-29B691D43CFD}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
