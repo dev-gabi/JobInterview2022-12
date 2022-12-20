@@ -1,0 +1,17 @@
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\BL.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\Entities.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\bin\Debug\net5.0\Entities.pdb
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\Desktop\source\repos\JobInterview2022-12\BL\obj\Debug\net5.0\BL.pdb
